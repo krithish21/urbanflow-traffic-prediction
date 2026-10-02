@@ -1,0 +1,5 @@
+outs:
+- md5: 040dc3a1372cd4bdc0061c7aa82dba84
+  size: 1815392
+  hash: md5
+  path: traffic.csv

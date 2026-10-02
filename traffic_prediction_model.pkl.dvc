@@ -1,0 +1,5 @@
+outs:
+- md5: 771b871f6bb35521683cce75fdf7166e
+  size: 1182229
+  hash: md5
+  path: traffic_prediction_model.pkl
