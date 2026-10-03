@@ -1,2 +1,7 @@
 /traffic.csv
 /traffic_prediction_model.pkl
+node_modules/
+
+node_modules/
+.venv/
+venv/

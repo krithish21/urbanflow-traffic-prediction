@@ -1,1 +1,9 @@
-/xgboost_model.pkl
+```gitignore
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+```
